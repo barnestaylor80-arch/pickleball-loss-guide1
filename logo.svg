@@ -1,0 +1,14 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="80" rx="10" fill="#2e7d32"/>
+  <circle cx="40" cy="40" r="22" fill="#f4f6f8"/>
+  <circle cx="35" cy="35" r="3" fill="#2e7d32"/>
+  <circle cx="45" cy="35" r="3" fill="#2e7d32"/>
+  <circle cx="35" cy="45" r="3" fill="#2e7d32"/>
+  <circle cx="45" cy="45" r="3" fill="#2e7d32"/>
+  <text x="80" y="33" font-size="20" fill="white" font-family="Arial" font-weight="bold">
+    Pickleball Association
+  </text>
+  <text x="80" y="55" font-size="12" fill="#c8e6c9" font-family="Arial">
+    Sportsmanship • Wellness • Recovery
+  </text>
+</svg>
